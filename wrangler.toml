@@ -1,4 +1,4 @@
-name = "crprice"
+name = "cr-scrapper"
 main = "src/worker.js"
 compatibility_date = "2024-06-21"
 workers_dev = true
